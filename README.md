@@ -79,6 +79,6 @@ A Python-based flight tracking and alert system that automates the search for lo
 
     Reduces human error in tracking best deals
 
-    Saves users money with early-bird alerts
+    Saves users money with early-bird alerts.
 
     Reduces manual work by 80% through automation.
