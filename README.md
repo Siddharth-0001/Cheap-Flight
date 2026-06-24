@@ -16,7 +16,7 @@ A Python-based flight tracking and alert system that automates the search for lo
 
     🧱 Object-Oriented Design for modular, maintainable, and scalable code
 
-    💸 Saves users money by identifying and alerting on early, low-fare bookings
+    💸 Saves users money by identifying and alerting on early, low-fare bookings.
 
 🧰 Tech Stack
 
